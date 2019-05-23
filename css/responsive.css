@@ -1,0 +1,176 @@
+@media (max-width: 768px){
+ 
+}
+
+@media (min-width: 320px) and (max-width: 640px){
+.devicewrap{
+margin-top:65px;
+}
+.margintopimg{
+margin-top:0px;
+}
+.entry-content{
+margin-top: 100px;
+}
+.hoverbox img{
+width:200px;
+}
+.navbar-default .navbar-toggle{
+border:0;
+}
+.icon-bar{
+ background-color: #FFFFFF !important;
+}
+.navbar-toggle{
+margin-top: 19px;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+background:#DE3910;
+border:0;
+color:#ffffff;
+}
+h1{
+font-size: 40px;
+}
+#home p.lead {
+    font-size: 20px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+border:0;
+}
+.navbar-collapse{
+border:0;
+box-shadow: none;
+}
+.navbar-nav > li > a {
+    line-height: 25px;
+	padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+	margin-bottom:1px;
+}
+#about{
+padding: 30px 0;
+}
+.googleplaybtnmob{
+margin-bottom: 22px;
+}
+.readmorebtn{
+width: 100%;
+}
+p.intro {
+    font-size: 14px;
+	font-weight: 100;
+    line-height: normal;}
+	.hoverbox p {
+    font-size: 14px;
+	font-weight: 100;}
+	.middledisplaytxt p {
+    font-size: 14px;
+	font-weight: 100;
+}
+.bottom_tabs p {
+    font-size: 14px;
+	font-weight: 100;
+}
+.ourfeathurs p {
+    font-size: 14px;
+	font-weight: 100;
+}
+p.intro{
+margin-top:25px;
+text-align:center;
+}
+.hoverbox{
+margin-bottom: 40px;
+}
+.mobilenopadding{
+padding-bottom:20px;
+}
+.copyritewrap {
+   
+    font-size: 13px;
+	text-align:center;}
+#mobile_app {
+    padding: 40px 0 0px;
+}
+.nav-tabs > li{
+ float: none;
+}
+.bottom_tabs p{
+margin-top:20px;
+}
+.ourfeathurs .col-md-4{
+margin-bottom:20px;
+}
+.lowpadding {
+    padding: 20px 0;
+}
+.footerlist, .footerlistsocial{
+margin-bottom: 0px;
+ margin-top: 0;
+}
+.footerlistsocial{
+margin-top: 20px;
+}
+.contact-form .form-group {
+    margin-bottom: 15px;
+}
+.contact-form .form-group input {
+    font-size: 17px !important;
+}
+.contact-form .lowmargin{
+margin: 17px 0;
+}
+.account  .centerimg {
+width:195px;
+}
+.account{
+ padding-top: 90px;
+  padding-bottom: 90px;
+}
+.footerlist li a, .contactdetails{
+font-size: 17px;
+   line-height: 30px;
+}
+.footerlistsocial li a{
+margin: 0 5px;
+}
+.img-responsive{
+width:100%;
+}
+}
+/*___________________________________________________________________*/
+
+/*---------------Normal Desktop Devices---------------*/
+/*___________________________________________________________________*/
+@media only screen and (min-width: 1100px){
+.container{
+width:1100px;
+}
+.devicewrap{
+margin-top:100px;
+}
+.navbar-brand{
+padding-top:19px;
+}
+.topmenuheader{
+padding-right:20px;
+}
+.paddingleftnone{
+padding-left:0;
+}
+.classpullright{
+float:right;
+}
+.lowpaddingfeathurs{
+padding-top:40px;
+padding-bottom:40px;
+}
+.entry-content{
+margin-top: 100px;
+}
+.qrcode{
+width:90px;
+}
+}
