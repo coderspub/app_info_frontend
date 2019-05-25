@@ -43,12 +43,13 @@ h4
 {
 font-weight: 400;
 font-size: 30px;
-color: #DE3910;
+color: #F57621;
 }
 h3{
 font-size: 30px;
 font-weight: 400;
 margin:0;
+color: #F57621
 }
 h2{
 	text-transform: uppercase;
@@ -57,7 +58,7 @@ h2{
 }
 .hoverbox  h3{
 font-size: 21px;
-color: #DE3910;
+color: #F57621;
 }
 .hoverbox p{
 padding-bottom:30px;
@@ -72,14 +73,14 @@ min-height: 50px;
 background:#1d1c1c;
 border:0;
 border-radius:0;
-border-bottom:4px rgb(245, 118, 33) solid;
+border-bottom:6px #F57621 solid;
 margin-bottom:0;
 }
 .navbar-nav > li > a{
-color:#fcf9f9f5 !important;
+color:#ffffff !important;
 }
 .navbar-nav > li > a:hover, .footerlist li a:hover{
-color: rgb(245, 118, 33) !important;
+color: #F57621 !important;
 }
 .navbar-nav > li > a {
 line-height: 41px;
@@ -104,11 +105,11 @@ p.intro{
 	color:#939598;
 	text-align:justify;
 }
-a{ color: #DE3910;outline: 0; outline-style:none;}
+a{ color: #F57621;outline: 0; outline-style:none;}
 a:hover,
 a:focus{
 	text-decoration: none;
-	color: #FCAC45;
+	color: #F57621;
 }
 .lowpadding{
 padding :30px 0 30px 0;
@@ -253,7 +254,7 @@ font-size: 25px !important;
 .navbar-default .navbar-nav > .active > a, 
 .navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus {
-	color: #de3910 !important;
+	color: #F57621 !important;
 	background-color: transparent;
 	font-weight: 100;
 }
@@ -275,7 +276,7 @@ font-size: 25px !important;
 	background-position: center;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	color: #cfcfcf;
+	color: #050505;
 	position: relative;
 }
 #home .overlay{
@@ -287,6 +288,10 @@ box-shadow: -1px 13px 23px -11px rgba(0,0,0,0.47);
 }
 #home p.lead{
 	color: #ffffff;
+	font-size: 32px;
+}
+#home p.lead-1{
+	color: #F57621;
 	font-size: 32px;
 }
 .content{
@@ -327,9 +332,9 @@ margin-top:25px;
 .copyritewrap{
 margin-top:30px;
 background:#292731;
-border-top:2px solid #DE3910;
+border-top:10px solid #F57621;
 padding:15px 0 15px 0;
-color: #DE3910;
+color: #F57621;
     font-size: 15px;
 }
 .footerlist li{
@@ -377,7 +382,7 @@ footer{
 padding: 40px 0 0 0;
 }
 #features{
-background: none repeat scroll 0 0 #292731;
+background: none repeat scroll 0 0 #1d1c1c;
 -webkit-box-shadow: inset 0px -14px 24px -10px rgba(0,0,0,0.3);
 -moz-box-shadow: inset 0px -14px 24px -10px rgba(0,0,0,0.3);
 box-shadow: inset 0px -14px 24px -10px rgba(0,0,0,0.3);
@@ -393,11 +398,11 @@ color: #333333;
 padding-top: 20px;
 }
 .ourfeathurs h3{
-color:#ffffff;
+color:#F57621;
 padding-top:20px;
 }
 .ourfeathurs h4{
-color:#ffffff;
+color:#F57621;
 font-size:20px;
 margin:0;
 }
@@ -411,7 +416,7 @@ color: #333333;
 font-size:22px;
 }
 .feathuricon{
-background: none repeat scroll 0 0 #1F1D26;
+background: none repeat scroll 0 0 #1d1c1c;
     border: 1px solid #141319;
     border-radius: 90px;
     height: 170px;
@@ -420,58 +425,58 @@ background: none repeat scroll 0 0 #1F1D26;
 	margin: 0 auto;
 }
 .ficonclass01{
-background: url(../images/feathurs01.png) no-repeat center #1F1D26;
+background: url(../images/feathurs01.png) no-repeat center #1c1c1c;
 }
 .ficonclass01:hover{
-background: url(../images/feathurs01hover.png) no-repeat center #1F1D26;
+background: url(../images/feathurs01hover.png) no-repeat center #1c1c1c;
 }
 .ficonclass02{
-background: url(../images/feathurs02.png) no-repeat center #1F1D26;
+background: url(../images/feathurs02.png) no-repeat center #1c1c1c;
 }
 .ficonclass02:hover{
-background: url(../images/feathurs02hover.png) no-repeat center #1F1D26;
+background: url(../images/feathurs02hover.png) no-repeat center #1c1c1c;
 }
 .ficonclass03{
-background: url(../images/feathurs03.png) no-repeat center #1F1D26;
+background: url(../images/feathurs03.png) no-repeat center #1c1c1c;
 }
 .ficonclass03:hover{
-background: url(../images/feathurs03hover.png) no-repeat center #1F1D26;
+background: url(../images/feathurs03hover.png) no-repeat center #1c1c1c;
 }
 .ficonclass04{
-background: url(../images/feathurs04.png) no-repeat center #1F1D26;
+background: url(../images/feathurs04.png) no-repeat center #1c1c1c;
 }
 .ficonclass04:hover{
-background: url(../images/feathurs04hover.png) no-repeat center #1F1D26;
+background: url(../images/feathurs04hover.png) no-repeat center #1c1c1c;
 }
 .ficonclass05{
-background: url(../images/feathurs05.png) no-repeat center #1F1D26;
+background: url(../images/feathurs05.png) no-repeat center #1c1c1c;
 }
 .ficonclass05:hover{
-background: url(../images/feathurs05hover.png) no-repeat center #1F1D26;
+background: url(../images/feathurs05hover.png) no-repeat center #1c1c1c;
 }
 .ficonclass06{
-background: url(../images/feathurs06.png) no-repeat center #1F1D26;
+background: url(../images/feathurs06.png) no-repeat center #1c1c1c;
 }
 .ficonclass06:hover{
-background: url(../images/feathurs06hover.png) no-repeat center #1F1D26;
+background: url(../images/feathurs06hover.png) no-repeat center #1c1c1c;
 }
 .ficonclass07{
-background: url(../images/feathurs07.png) no-repeat center #1F1D26;
+background: url(../images/feathurs07.png) no-repeat center #1c1c1c;
 }
 .ficonclass07:hover{
-background: url(../images/feathurs07hover.png) no-repeat center #1F1D26;
+background: url(../images/feathurs07hover.png) no-repeat center #1c1c1c;
 }
 .ficonclass08{
-background: url(../images/feathurs08.png) no-repeat center #1F1D26;
+background: url(../images/feathurs08.png) no-repeat center #1c1c1c;
 }
 .ficonclass08:hover{
-background: url(../images/feathurs08hover.png) no-repeat center #1F1D26;
+background: url(../images/feathurs08hover.png) no-repeat center #1c1c1c;
 }
 .ficonclass09{
-background: url(../images/feathurs09.png) no-repeat center #1F1D26;
+background: url(../images/feathurs09.png) no-repeat center #1c1c1c;
 }
 .ficonclass09:hover{
-background: url(../images/feathurs09hover.png) no-repeat center #1F1D26;
+background: url(../images/feathurs09hover.png) no-repeat center #1c1c1c;
 }
 .middledisplaytxt p{
 font-size: 18px;
@@ -484,7 +489,7 @@ padding: 60px 0;
 }
 /* About Section */
 #about{
-	background: none repeat scroll 0 0 #292731;
+	background: none repeat scroll 0 0 #1d1c1c;
 	color:#ffffff;
 	border-top:1px #ffffff solid;
 	-webkit-box-shadow: inset 0px -14px 22px -9px rgba(0,0,0,0.53);
